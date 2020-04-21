@@ -67,5 +67,4 @@ public class MainActivity extends AppCompatActivity {
                 });
         rq.add(r);
     }
-    //Just for pushing
 }
